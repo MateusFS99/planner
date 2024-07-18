@@ -1,0 +1,6 @@
+[submodule "planner-api"]
+	path = planner-api
+	url = https://github.com/MateusFS99/planner-api.git
+[submodule "planner-ui"]
+	path = planner-ui
+	url = https://github.com/MateusFS99/planner-ui.git
